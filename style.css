@@ -20,3 +20,25 @@
     margin-top: 10px;
     font-size: 18px;
 }
+
+.result_para_tag{
+    box-shadow: 5px 5px 5px darkslateblue;
+    font-size: 20px;
+    background-color: rgb(157, 124, 184);
+}
+
+.copy_right_footer{
+    position: fixed;
+    background-color: rgb(157, 124, 184);
+    color:rgb(51, 43, 58); 
+    bottom: 0;
+    width:100%;
+    text-align:center;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px rgb(47, 41, 83);
+    margin-top: 150px;
+}
